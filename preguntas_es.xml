@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "preguntas.dtd">
+<test>
+
+  <question id="q1">
+    <wording>¿Cuál de estos Pokémon es tipo Dragón/Fantasma?</wording>
+    <choices>
+      <choice correct="no">Garchomp</choice>
+      <choice correct="no">Hydreigon</choice>
+      <choice correct="yes">Giratina</choice>
+      <choice correct="no">Salamence</choice>
+    </choices>
+  </question>
+
+  <question id="q2">
+    <wording>¿Qué tipo secundario tiene Empoleon además de Agua?</wording>
+    <choices>
+      <choice correct="yes">Acero</choice>
+      <choice correct="no">Volador</choice>
+      <choice correct="no">Tierra</choice>
+      <choice correct="no">Siniestro</choice>
+    </choices>
+  </question>
+
+  <question id="q3">
+    <wording>¿Cuál de estos Pokémon evoluciona solo por felicidad durante el día?</wording>
+    <choices>
+      <choice correct="no">Umbreon</choice>
+      <choice correct="yes">Espeon</choice>
+      <choice correct="no">Togetic</choice>
+      <choice correct="no">Clefairy</choice>
+    </choices>
+  </question>
+
+  <question id="q4">
+    <wording>¿Qué tipo es inmune al tipo Psíquico?</wording>
+    <choices>
+      <choice correct="yes">Siniestro</choice>
+      <choice correct="no">Normal</choice>
+      <choice correct="no">Acero</choice>
+      <choice correct="no">Fantasma</choice>
+    </choices>
+  </question>
+
+  <question id="q5">
+    <wording>¿Cuál es el movimiento característico de Zeraora?</wording>
+    <choices>
+      <choice correct="no">Puño Trueno</choice>
+      <choice correct="yes">Puño Plasma</choice>
+      <choice correct="no">Voltiocambio</choice>
+      <choice correct="no">Rayo</choice>
+    </choices>
+  </question>
+
+  <question id="q6">
+    <wording>¿Cuál de estos Pokémon NO es un Pokémon inicial?</wording>
+    <choices>
+      <choice correct="no">Froakie</choice>
+      <choice correct="no">Turtwig</choice>
+      <choice correct="no">Chimchar</choice>
+      <choice correct="yes">Salandit</choice>
+    </choices>
+  </question>
+
+  <question id="q7">
+    <wording>¿Qué Pokémon tiene una forma regional en Alola de tipo Hielo/Hada?</wording>
+    <choices>
+      <choice correct="no">Dugtrio</choice>
+      <choice correct="no">Sandslash</choice>
+      <choice correct="yes">Ninetales</choice>
+      <choice correct="no">Raticate</choice>
+    </choices>
+  </question>
+
+  <question id="q8">
+    <wording>¿Cuál es la habilidad característica de Mimikyu?</wording>
+    <choices>
+      <choice correct="yes">Disfraz</choice>
+      <choice correct="no">Armadura Frágil</choice>
+      <choice correct="no">Muro Mágico</choice>
+      <choice correct="no">Ilusión</choice>
+    </choices>
+  </question>
+
+  <question id="q9">
+    <wording>¿Qué evolución de Eevee es de tipo Hada?</wording>
+    <choices>
+      <choice correct="no">Glaceon</choice>
+      <choice correct="no">Umbreon</choice>
+      <choice correct="yes">Sylveon</choice>
+      <choice correct="no">Espeon</choice>
+    </choices>
+  </question>
+
+  <question id="q10">
+    <wording>¿Qué Pokémon cambia de forma según el clima?</wording>
+    <choices>
+      <choice correct="yes">Castform</choice>
+      <choice correct="no">Rotom</choice>
+      <choice correct="no">Oricorio</choice>
+      <choice correct="no">Vivillon</choice>
+    </choices>
+  </question>
+
+  <question id="q11">
+    <wording>¿Qué objeto permite evolucionar a Dusclops en Dusknoir?</wording>
+    <choices>
+      <choice correct="no">Piedra Noche</choice>
+      <choice correct="yes">Tela Terrible</choice>
+      <choice correct="no">Fragmento cometa</choice>
+      <choice correct="no">Revestimiento Metálico</choice>
+    </choices>
+  </question>
+
+  <question id="q12">
+    <wording>¿Qué Pokémon es tipo Eléctrico/Volador?</wording>
+    <choices>
+      <choice correct="no">Ampharos</choice>
+      <choice correct="no">Luxray</choice>
+      <choice correct="no">Jolteon</choice>
+      <choice correct="yes">Zapdos</choice>
+    </choices>
+  </question>
+
+  <question id="q13">
+    <wording>¿Qué Pokémon tiene una forma Ultra?</wording>
+    <choices>
+      <choice correct="yes">Necrozma</choice>
+      <choice correct="no">Lunala</choice>
+      <choice correct="no">Zygarde</choice>
+      <choice correct="no">Solgaleo</choice>
+    </choices>
+  </question>
+
+  <question id="q14">
+    <wording>¿Qué movimiento es de tipo Hada?</wording>
+    <choices>
+      <choice correct="no">Deseo</choice>
+      <choice correct="yes">Fuerza Lunar</choice>
+      <choice correct="no">Trueno</choice>
+      <choice correct="no">Psíquico</choice>
+    </choices>
+  </question>
+
+  <question id="q15">
+    <wording>¿Cuál de estos Pokémon es un fósil de la primera generación?</wording>
+    <choices>
+      <choice correct="no">Archen</choice>
+      <choice correct="yes">Kabuto</choice>
+      <choice correct="no">Tyrunt</choice>
+      <choice correct="no">Shieldon</choice>
+    </choices>
+  </question>
+
+  <question id="q16">
+    <wording>¿Qué Pokémon tiene tres cabezas y es de tipo Dragón/Siniestro?</wording>
+    <choices>
+      <choice correct="no">Kingdra</choice>
+      <choice correct="no">Garchomp</choice>
+      <choice correct="yes">Hydreigon</choice>
+      <choice correct="no">Dodrio</choice>
+    </choices>
+  </question>
+
+  <question id="q17">
+    <wording>¿Cuál es el movimiento característico de Lucario?</wording>
+    <choices>
+      <choice correct="no">Puño Meteoro</choice>
+      <choice correct="no">Puño Incremento</choice>
+      <choice correct="no">A Bocajarro</choice>
+      <choice correct="yes">Esfera Aural</choice>
+    </choices>
+  </question>
+
+  <question id="q18">
+    <wording>¿Qué Pokémon de tipo Planta/Acero evoluciona desde Ferroseed?</wording>
+    <choices>
+      <choice correct="no">Kartana</choice>
+      <choice correct="no">Forretress</choice>
+      <choice correct="no">Roserade</choice>
+      <choice correct="yes">Ferrothorn</choice>
+    </choices>
+  </question>
+
+  <question id="q19">
+    <wording>¿Cuál de estos Pokémon es parte de la línea evolutiva de Ralts?</wording>
+    <choices>
+      <choice correct="no">Gengar</choice>
+      <choice correct="no">Medicham</choice>
+      <choice correct="yes">Gallade</choice>
+      <choice correct="no">Mawile</choice>
+    </choices>
+  </question>
+
+  <question id="q20">
+    <wording>¿Qué tipo es efectivo contra el tipo Fantasma?</wording>
+    <choices>
+      <choice correct="no">Hada</choice>
+      <choice correct="yes">Fantasma</choice>
+      <choice correct="no">Psíquico</choice>
+      <choice correct="no">Normal</choice>
+    </choices>
+  </question>
+</test>

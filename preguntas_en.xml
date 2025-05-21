@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE test SYSTEM "preguntas.dtd">
+<test>
+
+  <question id="q1">
+    <wording>Which of these Pokémon is Dragon/Ghost type?</wording>
+    <choices>
+      <choice correct="no">Garchomp</choice>
+      <choice correct="no">Hydreigon</choice>
+      <choice correct="yes">Giratina</choice>
+      <choice correct="no">Salamence</choice>
+    </choices>
+  </question>
+
+  <question id="q2">
+    <wording>What is Empoleon’s secondary type besides Water?</wording>
+    <choices>
+      <choice correct="yes">Steel</choice>
+      <choice correct="no">Flying</choice>
+      <choice correct="no">Ground</choice>
+      <choice correct="no">Dark</choice>
+    </choices>
+  </question>
+
+  <question id="q3">
+    <wording>Which Pokémon evolves only by happiness during the day?</wording>
+    <choices>
+      <choice correct="no">Umbreon</choice>
+      <choice correct="yes">Espeon</choice>
+      <choice correct="no">Togetic</choice>
+      <choice correct="no">Clefairy</choice>
+    </choices>
+  </question>
+
+  <question id="q4">
+    <wording>Which type is immune to Psychic?</wording>
+    <choices>
+      <choice correct="yes">Dark</choice>
+      <choice correct="no">Normal</choice>
+      <choice correct="no">Steel</choice>
+      <choice correct="no">Ghost</choice>
+    </choices>
+  </question>
+
+  <question id="q5">
+    <wording>What is Zeraora's signature move?</wording>
+    <choices>
+      <choice correct="no">Thunder Punch</choice>
+      <choice correct="yes">Plasma Fists</choice>
+      <choice correct="no">Volt Switch</choice>
+      <choice correct="no">Thunderbolt</choice>
+    </choices>
+  </question>
+
+  <question id="q6">
+    <wording>Which of these is NOT a starter Pokémon?</wording>
+    <choices>
+      <choice correct="no">Froakie</choice>
+      <choice correct="no">Turtwig</choice>
+      <choice correct="no">Chimchar</choice>
+      <choice correct="yes">Salandit</choice>
+    </choices>
+  </question>
+
+  <question id="q7">
+    <wording>Which Pokémon has an Alolan form that is Ice/Fairy type?</wording>
+    <choices>
+      <choice correct="no">Dugtrio</choice>
+      <choice correct="no">Sandslash</choice>
+      <choice correct="yes">Ninetales</choice>
+      <choice correct="no">Raticate</choice>
+    </choices>
+  </question>
+
+  <question id="q8">
+    <wording>What is Mimikyu's signature ability?</wording>
+    <choices>
+      <choice correct="yes">Disguise</choice>
+      <choice correct="no">Weak Armor</choice>
+      <choice correct="no">Magic Guard</choice>
+      <choice correct="no">Illusion</choice>
+    </choices>
+  </question>
+
+  <question id="q9">
+    <wording>Which Eeveelution is Fairy type?</wording>
+    <choices>
+      <choice correct="no">Glaceon</choice>
+      <choice correct="no">Umbreon</choice>
+      <choice correct="yes">Sylveon</choice>
+      <choice correct="no">Espeon</choice>
+    </choices>
+  </question>
+
+  <question id="q10">
+    <wording>Which Pokémon changes form depending on the weather?</wording>
+    <choices>
+      <choice correct="yes">Castform</choice>
+      <choice correct="no">Rotom</choice>
+      <choice correct="no">Oricorio</choice>
+      <choice correct="no">Vivillon</choice>
+    </choices>
+  </question>
+
+  <question id="q11">
+    <wording>What item is needed to evolve Dusclops into Dusknoir?</wording>
+    <choices>
+      <choice correct="no">Dusk Stone</choice>
+      <choice correct="yes">Reaper Cloth</choice>
+      <choice correct="no">Comet Shard</choice>
+      <choice correct="no">Metal Coat</choice>
+    </choices>
+  </question>
+
+  <question id="q12">
+    <wording>Which Pokémon is Electric/Flying type?</wording>
+    <choices>
+      <choice correct="no">Ampharos</choice>
+      <choice correct="no">Luxray</choice>
+      <choice correct="no">Jolteon</choice>
+      <choice correct="yes">Zapdos</choice>
+    </choices>
+  </question>
+
+  <question id="q13">
+    <wording>Which Pokémon has an Ultra form?</wording>
+    <choices>
+      <choice correct="yes">Necrozma</choice>
+      <choice correct="no">Lunala</choice>
+      <choice correct="no">Zygarde</choice>
+      <choice correct="no">Solgaleo</choice>
+    </choices>
+  </question>
+
+  <question id="q14">
+    <wording>Which move is Fairy-type?</wording>
+    <choices>
+      <choice correct="no">Wish</choice>
+      <choice correct="yes">Moonblast</choice>
+      <choice correct="no">Thunder</choice>
+      <choice correct="no">Psychic</choice>
+    </choices>
+  </question>
+
+  <question id="q15">
+    <wording>Which of these Pokémon is a first-generation fossil?</wording>
+    <choices>
+      <choice correct="no">Archen</choice>
+      <choice correct="yes">Kabuto</choice>
+      <choice correct="no">Tyrunt</choice>
+      <choice correct="no">Shieldon</choice>
+    </choices>
+  </question>
+
+  <question id="q16">
+    <wording>Which Pokémon has three heads and is Dragon/Dark type?</wording>
+    <choices>
+      <choice correct="no">Kingdra</choice>
+      <choice correct="no">Garchomp</choice>
+      <choice correct="yes">Hydreigon</choice>
+      <choice correct="no">Dodrio</choice>
+    </choices>
+  </question>
+
+  <question id="q17">
+    <wording>What is Lucario's signature move?</wording>
+    <choices>
+      <choice correct="no">Meteor Mash</choice>
+      <choice correct="no">Focus Punch</choice>
+      <choice correct="no">Close Combat</choice>
+      <choice correct="yes">Aura Sphere</choice>
+    </choices>
+  </question>
+
+  <question id="q18">
+    <wording>Which Steel/Grass Pokémon evolves from Ferroseed?</wording>
+    <choices>
+      <choice correct="no">Kartana</choice>
+      <choice correct="no">Forretress</choice>
+      <choice correct="no">Roserade</choice>
+      <choice correct="yes">Ferrothorn</choice>
+    </choices>
+  </question>
+
+  <question id="q19">
+    <wording>Which of these Pokémon is part of the Ralts evolutionary line?</wording>
+    <choices>
+      <choice correct="no">Gengar</choice>
+      <choice correct="no">Medicham</choice>
+      <choice correct="yes">Gallade</choice>
+      <choice correct="no">Mawile</choice>
+    </choices>
+  </question>
+
+  <question id="q20">
+    <wording>Which type is super effective against Ghost type?</wording>
+    <choices>
+      <choice correct="no">Fairy</choice>
+      <choice correct="yes">Ghost</choice>
+      <choice correct="no">Psychic</choice>
+      <choice correct="no">Normal</choice>
+    </choices>
+  </question>
+</test>
